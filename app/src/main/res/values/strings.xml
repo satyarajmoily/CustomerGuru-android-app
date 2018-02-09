@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CG login App</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="submit">SUBMIT</string>
+    <string name="welcome">Welcome,</string>
+    <string-array name="choose_a_city">
+        <item>Choose a City</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+    </string-array>
+</resources>
